@@ -1,0 +1,92 @@
+[07:00:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[07:00:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[07:00:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[07:00:04] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[07:00:04] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at D:\Minecraft\runtime\jre-x64
+[07:00:04] [main/INFO] [FML]: Searching C:\Users\unleash II.cybertron\Desktop\Technic\mods for mods
+[07:00:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[07:00:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[07:00:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[07:00:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[07:00:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[07:00:06] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[07:00:06] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[07:00:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[07:00:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[07:00:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[07:00:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[07:00:07] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[07:00:08] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Sabertooth
+[07:00:11] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[07:00:12] [Client thread/INFO] [FML]: Could not load splash.properties, will create a default one
+[07:00:12] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 449571416 bytes (428 MB) / 872415232 bytes (832 MB) up to 2147483648 bytes (2048 MB)
+	JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.6.14736 Compatibility Profile Context 20.9.2 27.20.12031.1000' Renderer: 'Radeon RX 590 Series'
+[07:00:12] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[07:00:12] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[07:00:12] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[07:00:12] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[07:00:13] [Client thread/INFO] [FML]: Searching C:\Users\unleash II.cybertron\Desktop\Technic\mods for mods
+[07:00:14] [Client thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[07:00:14] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at CLIENT
+[07:00:14] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at SERVER
+[07:00:15] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 246723900 nanos
+[07:00:16] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Pixelmon
+[07:00:16] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[07:00:16] [Client thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[07:00:16] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[07:00:16] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[07:00:16] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[07:00:16] [Client thread/INFO] [Pixelmon]: Loading Pixelmon version 8.1.2
+[07:00:16] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[07:00:16] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[07:00:16] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
+[07:00:17] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: AHEAD Target: null
+[07:00:17] [Client thread/INFO] [Pixelmon]: Checking for migrations..
+[07:00:17] [Client thread/INFO] [Pixelmon]: Loading Advancements
+[07:00:20] [Client thread/INFO] [FML]: Applying holder lookups
+[07:00:20] [Client thread/INFO] [FML]: Holder lookups applied
+[07:00:20] [Client thread/INFO] [Pixelmon]: Loading TM/HMs.
+[07:00:20] [Client thread/INFO] [FML]: Applying holder lookups
+[07:00:20] [Client thread/INFO] [FML]: Holder lookups applied
+[07:00:21] [Client thread/INFO] [FML]: Applying holder lookups
+[07:00:21] [Client thread/INFO] [FML]: Holder lookups applied
+[07:00:21] [Client thread/INFO] [FML]: Applying holder lookups
+[07:00:21] [Client thread/INFO] [FML]: Holder lookups applied
+[07:00:21] [Client thread/INFO] [FML]: Injecting itemstacks
+[07:00:21] [Client thread/INFO] [FML]: Itemstack injection complete
+[07:00:21] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[07:00:21] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[07:00:21] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[07:00:21] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[07:00:22] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[07:00:25] [Client thread/INFO] [FML]: Max texture size: 16384
+[07:00:29] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 4096x4096 textures-atlas
+[07:00:32] [Client thread/INFO] [FML]: Applying holder lookups
+[07:00:32] [Client thread/INFO] [FML]: Holder lookups applied
+[07:00:32] [Client thread/INFO] [Pixelmon]: Registering shop items.
+[07:00:32] [Client thread/INFO] [Pixelmon]: Registering NPCs.
+[07:00:32] [Client thread/INFO] [Pixelmon]: Registering structures.
+[07:00:32] [Client thread/INFO] [Pixelmon]: Registering all drops.
+[07:00:33] [Client thread/INFO] [Pixelmon]: Registering battle rules.
+[07:00:33] [Client thread/INFO] [Pixelmon]: Registering Pokémon stats.
+[07:00:34] [Client thread/INFO] [Pixelmon]: Registering quests.
+[07:00:34] [Client thread/INFO] [Pixelmon]: Loaded 34 Quests.
+[07:00:34] [pool-4-thread-1/INFO] [Pixelmon]: Query response: groups[45, 47, 48, 63, 66, 69, 77] colors[0, 0, 0]
+[07:00:34] [Client thread/INFO] [FML]: Injecting itemstacks
+[07:00:34] [Client thread/INFO] [FML]: Itemstack injection complete
+[07:00:34] [Client thread/INFO] [Pixelmon]: Registering spawn sets.
+[07:00:36] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[07:00:36] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[07:00:51] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[07:00:51] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[07:00:51] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

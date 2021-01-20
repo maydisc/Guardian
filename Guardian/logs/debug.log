@@ -1,0 +1,627 @@
+[07:00:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[07:00:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[07:00:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[07:00:04] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[07:00:04] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[07:00:04] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at D:\Minecraft\runtime\jre-x64
+[07:00:04] [main/DEBUG] [FML]: Java classpath at launch is:
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2854\forge-1.12.2-14.23.5.2854.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-debug-all\5.2\asm-debug-all-5.2.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2_mc\scala-continuations-library_2.11-1.0.2_mc.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2_mc\scala-continuations-plugin_2.11.1-1.0.2_mc.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.jar
+[07:00:04] [main/DEBUG] [FML]: Java library path at launch is:
+[07:00:04] [main/DEBUG] [FML]:     C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\bin\d673-e949-d4aa-727b
+[07:00:04] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries
+[07:00:04] [main/DEBUG] [FML]: Cleaning up mods folder: C:\Users\unleash II.cybertron\Desktop\Technic\mods
+[07:00:04] [main/DEBUG] [FML]: Examining file: Pixelmon-1.12.2-8.1.2-universal.jar
+[07:00:04] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[07:00:04] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[07:00:04] [main/DEBUG] [FML]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[07:00:04] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[07:00:04] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[07:00:04] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[07:00:04] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[07:00:04] [main/DEBUG] [FML]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[07:00:04] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[07:00:04] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[07:00:04] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[07:00:04] [main/DEBUG] [FML]: Discovering coremods
+[07:00:04] [main/INFO] [FML]: Searching C:\Users\unleash II.cybertron\Desktop\Technic\mods for mods
+[07:00:04] [main/DEBUG] [FML]:   Adding Pixelmon-1.12.2-8.1.2-universal.jar to the mod list
+[07:00:04] [main/DEBUG] [FML]: Examining for coremod candidacy Pixelmon-1.12.2-8.1.2-universal.jar
+[07:00:04] [main/DEBUG] [FML]: Not found coremod data in Pixelmon-1.12.2-8.1.2-universal.jar
+[07:00:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[07:00:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[07:00:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[07:00:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[07:00:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[07:00:04] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[07:00:04] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[07:00:04] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[07:00:04] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[07:00:04] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[07:00:04] [main/DEBUG] [FML]: Injection complete
+[07:00:04] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[07:00:04] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[07:00:05] [main/DEBUG] [FML]: Read 1154 binary patches
+[07:00:05] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36076 records
+[07:00:06] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[07:00:06] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[07:00:06] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[07:00:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[07:00:06] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[07:00:06] [main/DEBUG] [FML]: Injection complete
+[07:00:06] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[07:00:06] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[07:00:06] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[07:00:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[07:00:06] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
+[07:00:06] [main/DEBUG] [FML]: Loaded 43 rules from AccessTransformer mod jar file C:\Users\unleash II.cybertron\Desktop\Technic\mods\Pixelmon-1.12.2-8.1.2-universal.jar!META-INF/pixelmon_at.cfg
+
+[07:00:06] [main/DEBUG] [FML]: Validating minecraft
+[07:00:07] [main/DEBUG] [FML]: Minecraft validated, launching...
+[07:00:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[07:00:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[07:00:07] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[07:00:08] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Sabertooth
+[07:00:11] [Client thread/DEBUG] [FML]: Creating vanilla freeze snapshot
+[07:00:11] [Client thread/DEBUG] [FML]: Vanilla freeze snapshot created
+[07:00:11] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[07:00:12] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - LanguageManager took 0.001s
+[07:00:12] [Client thread/INFO] [FML]: Could not load splash.properties, will create a default one
+[07:00:12] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 449571416 bytes (428 MB) / 872415232 bytes (832 MB) up to 2147483648 bytes (2048 MB)
+	JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.6.14736 Compatibility Profile Context 20.9.2 27.20.12031.1000' Renderer: 'Radeon RX 590 Series'
+[07:00:12] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[07:00:12] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[07:00:12] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[07:00:12] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[07:00:12] [Client thread/DEBUG] [FML]: File C:\Users\unleash II.cybertron\Desktop\Technic\config\injectedDependencies.json not found. No dependencies injected
+[07:00:12] [Client thread/DEBUG] [FML]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[07:00:12] [Client thread/DEBUG] [FML]: Attempting to load mods contained in the minecraft jar file and associated classes
+[07:00:12] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2854\forge-1.12.2-14.23.5.2854.jar, examining for mod candidates
+[07:00:12] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-debug-all\5.2\asm-debug-all-5.2.jar, examining for mod candidates
+[07:00:12] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+[07:00:12] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar
+[07:00:12] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+[07:00:12] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+[07:00:12] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+[07:00:12] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+[07:00:12] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2_mc\scala-continuations-library_2.11-1.0.2_mc.jar
+[07:00:12] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2_mc\scala-continuations-plugin_2.11.1-1.0.2_mc.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+[07:00:13] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar, examining for mod candidates
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar
+[07:00:13] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar, examining for mod candidates
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
+[07:00:13] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
+[07:00:13] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar, examining for mod candidates
+[07:00:13] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\unleash II.cybertron\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.jar, examining for mod candidates
+[07:00:13] [Client thread/DEBUG] [FML]: Minecraft jar mods loaded successfully
+[07:00:13] [Client thread/INFO] [FML]: Searching C:\Users\unleash II.cybertron\Desktop\Technic\mods for mods
+[07:00:13] [Client thread/DEBUG] [FML]:   Adding Pixelmon-1.12.2-8.1.2-universal.jar to the mod list
+[07:00:13] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Pixelmon-1.12.2-8.1.2-universal.jar
+[07:00:13] [Client thread/DEBUG] [FML]: Examining file forge-1.12.2-14.23.5.2854.jar for potential mods
+[07:00:13] [Client thread/DEBUG] [FML]: The mod container forge-1.12.2-14.23.5.2854.jar appears to be missing an mcmod.info file
+[07:00:13] [Client thread/DEBUG] [FML]: Examining file asm-debug-all-5.2.jar for potential mods
+[07:00:13] [Client thread/DEBUG] [FML]: The mod container asm-debug-all-5.2.jar appears to be missing an mcmod.info file
+[07:00:13] [Client thread/DEBUG] [FML]: Examining file maven-artifact-3.5.3.jar for potential mods
+[07:00:13] [Client thread/DEBUG] [FML]: The mod container maven-artifact-3.5.3.jar appears to be missing an mcmod.info file
+[07:00:13] [Client thread/DEBUG] [FML]: Examining file patchy-1.1.jar for potential mods
+[07:00:13] [Client thread/DEBUG] [FML]: The mod container patchy-1.1.jar appears to be missing an mcmod.info file
+[07:00:13] [Client thread/DEBUG] [FML]: Examining file text2speech-1.10.3.jar for potential mods
+[07:00:13] [Client thread/DEBUG] [FML]: The mod container text2speech-1.10.3.jar appears to be missing an mcmod.info file
+[07:00:13] [Client thread/DEBUG] [FML]: Examining file 1.12.2-forge-14.23.5.2854.jar for potential mods
+[07:00:13] [Client thread/DEBUG] [FML]: The mod container 1.12.2-forge-14.23.5.2854.jar appears to be missing an mcmod.info file
+[07:00:14] [Client thread/DEBUG] [FML]: Examining file Pixelmon-1.12.2-8.1.2-universal.jar for potential mods
+[07:00:14] [Client thread/TRACE] [FML]: Located mcmod.info file in file Pixelmon-1.12.2-8.1.2-universal.jar
+[07:00:14] [Client thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.pixelmonmod.pixelmon.Pixelmon) - loading
+[07:00:14] [Client thread/TRACE] [FML]: Parsed dependency info for pixelmon: Requirements: [] After:[] Before:[]
+[07:00:14] [Client thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[07:00:14] [Client thread/TRACE] [FML]: Received a system property request ''
+[07:00:14] [Client thread/TRACE] [FML]: System property request managing the state of 0 mods
+[07:00:14] [Client thread/DEBUG] [FML]: After merging, found state information for 0 mods
+[07:00:14] [Client thread/DEBUG] [FML]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[07:00:14] [Client thread/DEBUG] [FML]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[07:00:14] [Client thread/DEBUG] [FML]: Enabling mod pixelmon
+[07:00:14] [Client thread/DEBUG] [FML]: Mod Pixelmon is missing a pack.mcmeta file, substituting a dummy one
+[07:00:14] [Client thread/TRACE] [FML]: Verifying mod requirements are satisfied
+[07:00:14] [Client thread/TRACE] [FML]: All mod requirements are satisfied
+[07:00:14] [Client thread/TRACE] [FML]: Sorting mods into an ordered list
+[07:00:14] [Client thread/TRACE] [FML]: Mod sorting completed successfully
+[07:00:14] [Client thread/DEBUG] [FML]: Mod sorting data
+[07:00:14] [Client thread/DEBUG] [FML]: 	pixelmon(Pixelmon:8.1.2): Pixelmon-1.12.2-8.1.2-universal.jar ()
+[07:00:14] [Client thread/DEBUG] [FML]: Loading @Config anotation data
+[07:00:14] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod minecraft
+[07:00:14] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod minecraft
+[07:00:14] [Client thread/DEBUG] [FML]: Bar Step: Construction - Minecraft took 0.004s
+[07:00:14] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mcp
+[07:00:14] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mcp
+[07:00:14] [Client thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Coder Pack took 0.000s
+[07:00:14] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod FML
+[07:00:14] [Client thread/TRACE] [FML]: Mod FML is using network checker : Invoking method checkModLists
+[07:00:14] [Client thread/TRACE] [FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[07:00:14] [Client thread/TRACE] [FML]: The mod FML accepts its own version (8.0.99.99)
+[07:00:14] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at CLIENT
+[07:00:14] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at SERVER
+[07:00:15] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 246723900 nanos
+[07:00:15] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod FML
+[07:00:15] [Client thread/DEBUG] [FML]: Bar Step: Construction - Forge Mod Loader took 0.502s
+[07:00:15] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod forge
+[07:00:15] [Client thread/DEBUG] [forge]: Loading Vanilla annotations: null
+[07:00:15] [Client thread/DEBUG] [forge]: Preloading CrashReport Classes
+[07:00:15] [Client thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable
+[07:00:15] [Client thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Alignment
+[07:00:15] [Client thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Column
+[07:00:15] [Client thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Row
+[07:00:15] [Client thread/DEBUG] [forge]: 	net/minecraftforge/fml/client/SplashProgress$1
+[07:00:15] [Client thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
+[07:00:15] [Client thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/Loader$1
+[07:00:15] [Client thread/TRACE] [FML]: Mod forge is using network checker : No network checking performed
+[07:00:15] [Client thread/TRACE] [FML]: Testing mod forge to verify it accepts its own version in a remote connection
+[07:00:15] [Client thread/TRACE] [FML]: The mod forge accepts its own version (14.23.5.2854)
+[07:00:15] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into forge for type INSTANCE
+[07:00:15] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod forge
+[07:00:15] [Client thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Forge took 0.194s
+[07:00:15] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod pixelmon
+[07:00:15] [Client thread/TRACE] [FML]: Mod pixelmon is using network checker : Accepting version 8.1.2
+[07:00:15] [Client thread/TRACE] [FML]: Testing mod pixelmon to verify it accepts its own version in a remote connection
+[07:00:15] [Client thread/TRACE] [FML]: The mod pixelmon accepts its own version (8.1.2)
+[07:00:15] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into pixelmon
+[07:00:16] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for pixelmon
+[07:00:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.pixelmonmod.pixelmon.client.keybindings.HoverKey$EventHandler for mod pixelmon
+[07:00:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.pixelmonmod.pixelmon.client.keybindings.HoverKey$EventHandler
+[07:00:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.pixelmonmod.pixelmon.client.keybindings.HoverKey for mod pixelmon
+[07:00:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.pixelmonmod.pixelmon.client.keybindings.HoverKey
+[07:00:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.pixelmonmod.pixelmon.client.keybindings.MovementHandler$EventHandler for mod pixelmon
+[07:00:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.pixelmonmod.pixelmon.client.keybindings.MovementHandler$EventHandler
+[07:00:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.pixelmonmod.pixelmon.storage.extras.PixelExtrasStorage for mod pixelmon
+[07:00:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.pixelmonmod.pixelmon.storage.extras.PixelExtrasStorage
+[07:00:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.pixelmonmod.pixelmon.client.listener.SendoutListener for mod pixelmon
+[07:00:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.pixelmonmod.pixelmon.client.listener.SendoutListener
+[07:00:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.pixelmonmod.pixelmon.config.RegistryListener for mod pixelmon
+[07:00:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.pixelmonmod.pixelmon.config.RegistryListener
+[07:00:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.pixelmonmod.pixelmon.util.helpers.CursorHelper for mod pixelmon
+[07:00:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.pixelmonmod.pixelmon.util.helpers.CursorHelper
+[07:00:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.pixelmonmod.pixelmon.client.listener.SneakingListener for mod pixelmon
+[07:00:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.pixelmonmod.pixelmon.client.listener.SneakingListener
+[07:00:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.pixelmonmod.pixelmon.listener.ZygardeCellsListener for mod pixelmon
+[07:00:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.pixelmonmod.pixelmon.listener.ZygardeCellsListener
+[07:00:16] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into pixelmon for type INSTANCE
+[07:00:16] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod pixelmon
+[07:00:16] [Client thread/DEBUG] [FML]: Bar Step: Construction - Pixelmon took 0.849s
+[07:00:16] [Client thread/DEBUG] [FML]: Bar Finished: Construction took 1.550s
+[07:00:16] [Client thread/DEBUG] [FML]: Mod signature data
+[07:00:16] [Client thread/DEBUG] [FML]:  	Valid Signatures:
+[07:00:16] [Client thread/DEBUG] [FML]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	8.0.99.99)	forge-1.12.2-14.23.5.2854.jar
+[07:00:16] [Client thread/DEBUG] [FML]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) forge	(Minecraft Forge	14.23.5.2854)	forge-1.12.2-14.23.5.2854.jar
+[07:00:16] [Client thread/DEBUG] [FML]:  	Missing Signatures:
+[07:00:16] [Client thread/DEBUG] [FML]: 		minecraft	(Minecraft	1.12.2)	minecraft.jar
+[07:00:16] [Client thread/DEBUG] [FML]: 		mcp	(Minecraft Coder Pack	9.42)	minecraft.jar
+[07:00:16] [Client thread/DEBUG] [FML]: 		pixelmon	(Pixelmon	8.1.2)	Pixelmon-1.12.2-8.1.2-universal.jar
+[07:00:16] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Pixelmon
+[07:00:16] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - Default took 0.003s
+[07:00:16] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.003s
+[07:00:16] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.001s
+[07:00:16] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Pixelmon took 0.029s
+[07:00:16] [Client thread/DEBUG] [FML]: Bar Finished: Reloading - LanguageManager took 0.129s
+[07:00:16] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - Reloading listeners took 0.130s
+[07:00:16] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resources took 0.166s
+[07:00:16] [Client thread/DEBUG] [FML]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[07:00:16] [Client thread/DEBUG] [FML]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[07:00:16] [Client thread/DEBUG] [FML]: Mod Pixelmon is missing a pack.mcmeta file, substituting a dummy one
+[07:00:16] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[07:00:16] [Client thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[07:00:16] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[07:00:16] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[07:00:16] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod minecraft
+[07:00:16] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod minecraft
+[07:00:16] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft took 0.001s
+[07:00:16] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod mcp
+[07:00:16] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod mcp
+[07:00:16] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.000s
+[07:00:16] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod FML
+[07:00:16] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod FML
+[07:00:16] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Forge Mod Loader took 0.000s
+[07:00:16] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod forge
+[07:00:16] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[07:00:16] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod forge
+[07:00:16] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Forge took 0.109s
+[07:00:16] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod pixelmon
+[07:00:16] [Client thread/INFO] [Pixelmon]: Loading Pixelmon version 8.1.2
+[07:00:16] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[07:00:16] [Forge Version Check/DEBUG] [forge.VersionCheck]: [forge] Received version check data:
+{
+  "homepage": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/",
+  "promos": {
+    "1.1-latest": "1.3.2.6",
+    "1.10-latest": "12.18.0.2000",
+    "1.10.2-latest": "12.18.3.2511",
+    "1.10.2-recommended": "12.18.3.2185",
+    "1.11-latest": "13.19.1.2199",
+    "1.11-recommended": "13.19.1.2189",
+    "1.11.2-latest": "13.20.1.2588",
+    "1.11.2-recommended": "13.20.1.2386",
+    "1.12-latest": "14.21.1.2443",
+    "1.12-recommended": "14.21.1.2387",
+    "1.12.1-latest": "14.22.1.2485",
+    "1.12.1-recommended": "14.22.1.2478",
+    "1.12.2-latest": "14.23.5.2854",
+    "1.12.2-recommended": "14.23.5.2854",
+    "1.13.2-latest": "25.0.219",
+    "1.14.2-latest": "26.0.63",
+    "1.14.3-latest": "27.0.60",
+    "1.14.4-latest": "28.2.23",
+    "1.14.4-recommended": "28.2.0",
+    "1.15-latest": "29.0.4",
+    "1.15.1-latest": "30.0.51",
+    "1.15.2-latest": "31.2.47",
+    "1.15.2-recommended": "31.2.0",
+    "1.16.1-latest": "32.0.108",
+    "1.16.2-latest": "33.0.61",
+    "1.16.3-latest": "34.1.42",
+    "1.16.3-recommended": "34.1.0",
+    "1.16.4-latest": "35.1.7",
+    "1.16.4-recommended": "35.1.0",
+    "1.5.2-latest": "7.8.1.738",
+    "1.5.2-recommended": "7.8.1.737",
+    "1.6.1-latest": "8.9.0.775",
+    "1.6.2-latest": "9.10.1.871",
+    "1.6.2-recommended": "9.10.1.871",
+    "1.6.3-latest": "9.11.0.878",
+    "1.6.4-latest": "9.11.1.1345",
+    "1.6.4-recommended": "9.11.1.1345",
+    "1.7.10-latest": "10.13.4.1614",
+    "1.7.10-latest-1.7.10": "10.13.2.1343",
+    "1.7.10-recommended": "10.13.4.1558",
+    "1.7.2-latest": "10.12.2.1147",
+    "1.7.2-recommended": "10.12.2.1121",
+    "1.8-latest": "11.14.4.1577",
+    "1.8-recommended": "11.14.4.1563",
+    "1.8.8-latest": "11.15.0.1655",
+    "1.8.9-latest": "11.15.1.2318",
+    "1.8.9-recommended": "11.15.1.1722",
+    "1.9-latest": "12.16.0.1942",
+    "1.9-recommended": "12.16.1.1887",
+    "1.9.4-latest": "12.17.0.2051",
+    "1.9.4-recommended": "12.17.0.1976",
+    "latest-1.7.10": "10.13.2.1343"
+  }
+}
+[07:00:16] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[07:00:16] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
+[07:00:17] [Forge Version Check/DEBUG] [forge.VersionCheck]: [pixelmon] Received version check data:
+{
+  "homepage": "https://reforged.gg/",
+  "1.12.2": {
+    "6.0.0": "Released Reforged", 
+    "6.0.1": "Bug fix update.",
+    "6.2.0": "The Power Update",
+    "6.2.1": "Bug fix update",
+    "6.2.2": "Performace update",
+    "6.2.3": "The toaster performance update",
+    "6.3.0": "The Legendary Update",
+    "6.3.1": "Bug fix update",
+	"6.3.2": "Bug fix update",
+	"6.3.3": "Bug fix update",
+	"6.3.4": "Hotfix update",
+	"7.0.0": "Generation 7 update",
+	"7.0.1": "Bug fix update",
+	"7.0.2": "Bug fix update",
+	"7.0.3": "Crash fix",
+	"7.0.4": "Bug fix update",
+	"7.0.5": "They're no longer bugs. All hail Buzzwole.",
+	"7.0.6": "Two words: Legendary apocalypse",
+    "7.0.7": "Now with... Smart phones?",
+    "7.0.8": "A few more fixes before 7.1!",
+    "7.1.0": "The Integration Update",
+    "7.3.0": "Bye-Bye Pixelmon 7",
+    "7.3.1": "Bye-Bye Pixelmon 7",
+    "8.0.0": "Generation 8",
+    "8.0.2": "Generation 8",
+    "8.1.0": "A Sweet Update",
+    "8.1.1": "A Sweet Update",
+    "8.1.2": "A Sweet Update"
+  },
+  "promos": {
+    "1.12.2-latest": "8.0.0",
+    "1.12.2-recommended": "8.0.0"
+  }
+}
+[07:00:17] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: AHEAD Target: null
+[07:00:17] [Client thread/INFO] [Pixelmon]: Checking for migrations..
+[07:00:17] [Client thread/INFO] [Pixelmon]: Loading Advancements
+[07:00:19] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod pixelmon
+[07:00:19] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Pixelmon took 3.171s
+[07:00:19] [Client thread/DEBUG] [FML]: Bar Finished: PreInitialization took 3.281s
+[07:00:20] [Client thread/INFO] [FML]: Applying holder lookups
+[07:00:20] [Client thread/INFO] [FML]: Holder lookups applied
+[07:00:20] [Client thread/INFO] [Pixelmon]: Loading TM/HMs.
+[07:00:20] [Client thread/INFO] [FML]: Applying holder lookups
+[07:00:20] [Client thread/INFO] [FML]: Holder lookups applied
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity Trainer as pixelmon:npc_trainer
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity Trader as pixelmon:npc_trader
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity Pixelmon as pixelmon:pixelmon
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity Statue as pixelmon:statue
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity ChattingNPC as pixelmon:npc_chatting
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity QuestGiverNPC as pixelmon:npc_questgiver
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity Relearner as pixelmon:npc_relearner
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity Tutor as pixelmon:npc_tutor
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity Pokeball as pixelmon:empty_pokeball
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity Hook as pixelmon:hook
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity EntityChairMount as pixelmon:chair_mount
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity NurseJoy as pixelmon:npc_nursejoy
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity Shopkeeper as pixelmon:npc_shopkeeper
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity PixelmonPainting as pixelmon:painting
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity OccupiedPokeball as pixelmon:occupied_pokeball
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity Wormhole as pixelmon:ultra_wormhole
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity Breeding as pixelmon:breeding
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity Bike as pixelmon:bike
+[07:00:20] [Client thread/TRACE] [FML]: Automatically registered mod pixelmon entity OldFisherman as pixelmon:npc_oldfisherman
+[07:00:21] [Client thread/INFO] [FML]: Applying holder lookups
+[07:00:21] [Client thread/INFO] [FML]: Holder lookups applied
+[07:00:21] [Client thread/INFO] [FML]: Applying holder lookups
+[07:00:21] [Client thread/INFO] [FML]: Holder lookups applied
+[07:00:21] [Client thread/INFO] [FML]: Injecting itemstacks
+[07:00:21] [Client thread/INFO] [FML]: Itemstack injection complete
+[07:00:21] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - TextureManager took 0.000s
+[07:00:21] [Client thread/DEBUG] [FML]: Bar Finished: Loading sounds took 0.541s
+[07:00:21] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - SoundHandler took 0.561s
+[07:00:21] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[07:00:21] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - FontRenderer took 0.008s
+[07:00:21] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - FontRenderer took 0.004s
+[07:00:21] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - GrassColorReloadListener took 0.007s
+[07:00:21] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - FoliageColorReloadListener took 0.007s
+[07:00:21] [Client thread/DEBUG] [FML]: Bar Step: Rendering Setup - GL Setup took 0.001s
+[07:00:21] [Client thread/DEBUG] [FML]: Bar Step: Rendering Setup - Loading Texture Map took 0.004s
+[07:00:21] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - B3DLoader took 0.000s
+[07:00:21] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - OBJLoader took 0.000s
+[07:00:21] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ModelFluid$FluidLoader took 0.000s
+[07:00:21] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ItemLayerModel$Loader took 0.000s
+[07:00:21] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - MultiLayerModel$Loader took 0.000s
+[07:00:21] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ModelDynBucket$LoaderDynBucket took 0.000s
+[07:00:21] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[07:00:21] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[07:00:21] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[07:00:22] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[07:00:24] [Client thread/DEBUG] [FML]: Bar Finished: ModelLoader: blocks took 2.494s
+[07:00:25] [Client thread/DEBUG] [FML]: Bar Finished: ModelLoader: items took 0.883s
+[07:00:25] [Client thread/INFO] [FML]: Max texture size: 16384
+[07:00:29] [Client thread/DEBUG] [FML]: Bar Finished: Texture stitching took 3.824s
+[07:00:29] [Client thread/DEBUG] [FML]: Bar Finished: Texture stitching took 0.241s
+[07:00:29] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 4096x4096 textures-atlas
+[07:00:29] [Client thread/DEBUG] [FML]: Bar Finished: Texture creation took 0.254s
+[07:00:29] [Client thread/DEBUG] [FML]: Bar Finished: Texture mipmap and upload took 0.503s
+[07:00:30] [Client thread/DEBUG] [FML]: Bar Finished: ModelLoader: baking took 0.777s
+[07:00:30] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ModelManager took 8.932s
+[07:00:30] [Client thread/DEBUG] [FML]: Bar Step: Rendering Setup - Loading Model Manager took 8.954s
+[07:00:30] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ValveStudioModelLoader took 0.000s
+[07:00:31] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - RenderItem took 0.024s
+[07:00:31] [Client thread/DEBUG] [FML]: Bar Step: Rendering Setup - Loading Item Renderer took 0.358s
+[07:00:31] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - EntityRenderer took 0.000s
+[07:00:31] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - BlockRendererDispatcher took 0.000s
+[07:00:31] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - RenderGlobal took 0.000s
+[07:00:31] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - SearchTreeManager took 0.284s
+[07:00:31] [Client thread/DEBUG] [FML]: Bar Step: Rendering Setup - Loading Entity Renderer took 0.771s
+[07:00:31] [Client thread/DEBUG] [FML]: Bar Finished: Rendering Setup took 10.087s
+[07:00:32] [Client thread/INFO] [FML]: Applying holder lookups
+[07:00:32] [Client thread/INFO] [FML]: Holder lookups applied
+[07:00:32] [Client thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod minecraft
+[07:00:32] [Client thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod minecraft
+[07:00:32] [Client thread/DEBUG] [FML]: Bar Step: Initialization - Minecraft took 0.000s
+[07:00:32] [Client thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod mcp
+[07:00:32] [Client thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod mcp
+[07:00:32] [Client thread/DEBUG] [FML]: Bar Step: Initialization - Minecraft Coder Pack took 0.000s
+[07:00:32] [Client thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod FML
+[07:00:32] [Client thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod FML
+[07:00:32] [Client thread/DEBUG] [FML]: Bar Step: Initialization - Forge Mod Loader took 0.000s
+[07:00:32] [Client thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod forge
+[07:00:32] [Client thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod forge
+[07:00:32] [Client thread/DEBUG] [FML]: Bar Step: Initialization - Minecraft Forge took 0.000s
+[07:00:32] [Client thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod pixelmon
+[07:00:32] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - FontRendererPixelmon took 0.003s
+[07:00:32] [Client thread/INFO] [Pixelmon]: Registering shop items.
+[07:00:32] [Client thread/INFO] [Pixelmon]: Registering NPCs.
+[07:00:32] [Client thread/INFO] [Pixelmon]: Registering structures.
+[07:00:32] [Client thread/INFO] [Pixelmon]: Registering all drops.
+[07:00:33] [Client thread/INFO] [Pixelmon]: Registering battle rules.
+[07:00:33] [Client thread/INFO] [Pixelmon]: Registering Pokémon stats.
+[07:00:34] [Client thread/INFO] [Pixelmon]: Registering quests.
+[07:00:34] [Client thread/INFO] [Pixelmon]: Loaded 34 Quests.
+[07:00:34] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - WallpapersListener took 0.014s
+[07:00:34] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - EmissiveTextures took 0.000s
+[07:00:34] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ResourceLoader took 0.018s
+[07:00:34] [pool-4-thread-1/INFO] [Pixelmon]: Query response: groups[45, 47, 48, 63, 66, 69, 77] colors[0, 0, 0]
+[07:00:34] [Client thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod pixelmon
+[07:00:34] [Client thread/DEBUG] [FML]: Bar Step: Initialization - Pixelmon took 2.635s
+[07:00:34] [Client thread/DEBUG] [FML]: Bar Finished: Initialization took 2.636s
+[07:00:34] [Client thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod minecraft
+[07:00:34] [Client thread/TRACE] [FML]: Sending event IMCEvent to mod minecraft
+[07:00:34] [Client thread/TRACE] [FML]: Sent event IMCEvent to mod minecraft
+[07:00:34] [Client thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Minecraft took 0.076s
+[07:00:34] [Client thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod mcp
+[07:00:34] [Client thread/TRACE] [FML]: Sending event IMCEvent to mod mcp
+[07:00:34] [Client thread/TRACE] [FML]: Sent event IMCEvent to mod mcp
+[07:00:34] [Client thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.000s
+[07:00:34] [Client thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod FML
+[07:00:34] [Client thread/TRACE] [FML]: Sending event IMCEvent to mod FML
+[07:00:34] [Client thread/TRACE] [FML]: Sent event IMCEvent to mod FML
+[07:00:34] [Client thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
+[07:00:34] [Client thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod forge
+[07:00:34] [Client thread/TRACE] [FML]: Sending event IMCEvent to mod forge
+[07:00:34] [Client thread/TRACE] [FML]: Sent event IMCEvent to mod forge
+[07:00:34] [Client thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.000s
+[07:00:34] [Client thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod pixelmon
+[07:00:34] [Client thread/TRACE] [FML]: Sending event IMCEvent to mod pixelmon
+[07:00:34] [Client thread/TRACE] [FML]: Sent event IMCEvent to mod pixelmon
+[07:00:34] [Client thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Pixelmon took 0.001s
+[07:00:34] [Client thread/DEBUG] [FML]: Bar Finished: InterModComms$IMC took 0.078s
+[07:00:34] [Client thread/INFO] [FML]: Injecting itemstacks
+[07:00:34] [Client thread/INFO] [FML]: Itemstack injection complete
+[07:00:34] [Client thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod minecraft
+[07:00:34] [Client thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod minecraft
+[07:00:34] [Client thread/DEBUG] [FML]: Bar Step: PostInitialization - Minecraft took 0.000s
+[07:00:34] [Client thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod mcp
+[07:00:34] [Client thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod mcp
+[07:00:34] [Client thread/DEBUG] [FML]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
+[07:00:34] [Client thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod FML
+[07:00:34] [Client thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod FML
+[07:00:34] [Client thread/DEBUG] [FML]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
+[07:00:34] [Client thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod forge
+[07:00:34] [Client thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod forge
+[07:00:34] [Client thread/DEBUG] [FML]: Bar Step: PostInitialization - Minecraft Forge took 0.004s
+[07:00:34] [Client thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod pixelmon
+[07:00:34] [Client thread/INFO] [Pixelmon]: Registering spawn sets.
+[07:00:35] [Client thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod pixelmon
+[07:00:35] [Client thread/DEBUG] [FML]: Bar Step: PostInitialization - Pixelmon took 1.119s
+[07:00:35] [Client thread/DEBUG] [FML]: Bar Finished: PostInitialization took 1.124s
+[07:00:35] [Client thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod minecraft
+[07:00:35] [Client thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod minecraft
+[07:00:35] [Client thread/DEBUG] [FML]: Bar Step: LoadComplete - Minecraft took 0.000s
+[07:00:35] [Client thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod mcp
+[07:00:35] [Client thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod mcp
+[07:00:35] [Client thread/DEBUG] [FML]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[07:00:35] [Client thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod FML
+[07:00:35] [Client thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod FML
+[07:00:35] [Client thread/DEBUG] [FML]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
+[07:00:35] [Client thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod forge
+[07:00:35] [Client thread/DEBUG] [FML]: Forge RecipeSorter Baking:
+[07:00:35] [Client thread/DEBUG] [FML]:   16: RecipeEntry("Before", UNKNOWN, )
+[07:00:35] [Client thread/DEBUG] [FML]:   15: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[07:00:35] [Client thread/DEBUG] [FML]:   14: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[07:00:35] [Client thread/DEBUG] [FML]:   13: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[07:00:35] [Client thread/DEBUG] [FML]:   12: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[07:00:35] [Client thread/DEBUG] [FML]:   11: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
+[07:00:35] [Client thread/DEBUG] [FML]:   10: RecipeEntry("minecraft:shield_deco", SHAPELESS, net.minecraft.item.crafting.ShieldRecipes$Decoration) After: minecraft:shapeless
+[07:00:35] [Client thread/DEBUG] [FML]:   9: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[07:00:35] [Client thread/DEBUG] [FML]:   8: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[07:00:35] [Client thread/DEBUG] [FML]:   7: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
+[07:00:35] [Client thread/DEBUG] [FML]:   6: RecipeEntry("minecraft:tippedarrow", SHAPELESS, net.minecraft.item.crafting.RecipeTippedArrow) After: minecraft:shapeless
+[07:00:35] [Client thread/DEBUG] [FML]:   5: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[07:00:35] [Client thread/DEBUG] [FML]:   4: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[07:00:35] [Client thread/DEBUG] [FML]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
+[07:00:35] [Client thread/DEBUG] [FML]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[07:00:35] [Client thread/DEBUG] [FML]:   1: RecipeEntry("After", UNKNOWN, )
+[07:00:35] [Client thread/DEBUG] [FML]: Sorting recipes
+[07:00:35] [Client thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod forge
+[07:00:35] [Client thread/DEBUG] [FML]: Bar Step: LoadComplete - Minecraft Forge took 0.007s
+[07:00:35] [Client thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod pixelmon
+[07:00:35] [Client thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod pixelmon
+[07:00:35] [Client thread/DEBUG] [FML]: Bar Step: LoadComplete - Pixelmon took 0.000s
+[07:00:35] [Client thread/DEBUG] [FML]: Bar Finished: LoadComplete took 0.008s
+[07:00:35] [Client thread/DEBUG] [FML]: Freezing registries
+[07:00:35] [Client thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod minecraft
+[07:00:35] [Client thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod minecraft
+[07:00:35] [Client thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft took 0.000s
+[07:00:35] [Client thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod mcp
+[07:00:35] [Client thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod mcp
+[07:00:35] [Client thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[07:00:35] [Client thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod FML
+[07:00:35] [Client thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod FML
+[07:00:35] [Client thread/DEBUG] [FML]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[07:00:35] [Client thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod forge
+[07:00:36] [Client thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod forge
+[07:00:36] [Client thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft Forge took 0.518s
+[07:00:36] [Client thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod pixelmon
+[07:00:36] [Client thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod pixelmon
+[07:00:36] [Client thread/DEBUG] [FML]: Bar Step: ModIdMapping - Pixelmon took 0.000s
+[07:00:36] [Client thread/DEBUG] [FML]: Bar Finished: ModIdMapping took 0.519s
+[07:00:36] [Client thread/DEBUG] [FML]: All registries frozen
+[07:00:36] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[07:00:36] [Client thread/DEBUG] [FML]: Bar Finished: Loading took 23.740s
+[07:00:36] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[07:00:36] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - CloudRenderer took 0.008s
+[07:00:51] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[07:00:51] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[07:00:51] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
